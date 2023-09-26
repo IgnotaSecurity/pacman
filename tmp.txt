@@ -1,0 +1,9 @@
+1 - map sprites.
+
+2 - game map.
+
+3 - engine.
+
+4 - architecture.
+
+5 - game design.
